@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c 1 acrostic.txt
+cut -c 1 acrostic.txt \n
